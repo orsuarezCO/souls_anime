@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943332436444",
+    "project_id": "soul-anime-f3c9b",
+    "storage_bucket": "soul-anime-f3c9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943332436444:android:9f2a20bf17d59772ddc719",
+        "android_client_info": {
+          "package_name": "com.example.souls_anime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943332436444-u4qhbgnk0546v8cgr8jo3cfdlfqeknlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBauFtklzfk44z5nymaSqkktj8AZTckVXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943332436444-u4qhbgnk0546v8cgr8jo3cfdlfqeknlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
